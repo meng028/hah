@@ -1,0 +1,5 @@
+<!--pages/a/a.wxml-->
+<text>a页面</text>
+<view>
+  <text>数量：{{count}}</text>
+</view>
