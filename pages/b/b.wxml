@@ -1,2 +1,5 @@
 <!--pages/b/b.wxml-->
 <text>bbbbbbbbbbbbbbbbbbbbbb</text>
+<text>
+    {{count}}
+</text>

@@ -1,5 +1,5 @@
 // pages/a/a.js
-var {count}=require('../../store/Count.js');
+var {count}=require('../../store/Count');
 Page({
 
     /**
