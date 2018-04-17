@@ -1,7 +1,8 @@
 <!--pages/a/a.wxml-->
-<text>a页面</text>
+<text>aaaaaaaaaaaaa</text>
 <view>
   <text>数量：{{count}}</text>
   <button bindtap='bindAddCount'>+</button>
   <button bindtap='bindReduceCount'>-</button>
+  <navigator url="/pages/b/b"> 跳转到b页面 </navigator>
 </view>
